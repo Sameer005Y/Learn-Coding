@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: px;
+}
+
+.container{
+    border: 2px solid royalblue;
+    width: 600px;
+    height: 387px;
+}
+
+.lang{
+    border: 2px solid black;
+    width: 600px;
+    height:30px;
+    background-color: orange;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.lang h2{
+    position: absolute;
+    top: -1%;
+    left: 48%;
+}
+
+#cont2 table{
+    height: 100%;
+    width: 100%;
+}
+td img{
+    
+    height:300px;
+    width: 220px;
+}
+td{
+    color: aliceblue;
+    text-align: center;
+    font-style: oblique;
+    font-size: large;
+}
+
+tr{
+    border: 2px solid yellow;
+}
+
+

@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: px;
+}
+
+.container{
+    border: 2px solid royalblue;
+    width: 600px;
+    height: 400px;
+}
+
+.learncoding{
+    border: 2px solid black;
+    width: 600px;
+    height:30px;
+    background-color: yellow;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.learncoding h2{
+    position: absolute;
+    top: -1%;
+    left: 45%;
+}
+
+
+#cont2{
+    padding: 20px;
+}
+
+#cont2_in{
+    border: 2px solid rosybrown;
+    height: 300px;
+    width: 450px;
+}
+
+#img1{
+    float: left;
+    
+}
+#input h2{
+    color: aliceblue;
+}
+

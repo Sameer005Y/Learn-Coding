@@ -1,0 +1,82 @@
+
+.container{
+    width: 600px;
+    height: 400px;
+    
+}
+.learncoding{
+    border: 2px solid black;
+    width: 600px;
+    height:30px;
+    background-color: yellow;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.learncoding h2{
+    position: absolute;
+    top: -1%;
+    left: 45%;
+}
+#cont2{
+    /* border: 2px solid orangered; */
+    padding: 5px;
+    width: 592px;
+    height: 354px;
+    background-color: greenyellow;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#cont2_in{
+    /* border: 2px solid green; */
+    height:220px;
+    width: 310px;
+    margin-top: 50px;
+}
+
+.parentImg{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    margin-bottom: 10px;
+}
+#img1 img{
+    border: 2px solid black;
+    height: 150px; 
+    width: 150px;
+}
+
+#img2 img{
+    border: 2px solid black;
+    height: 150px; 
+    width: 150px;
+}
+
+#prebutto{
+    padding-top: 10px;
+   
+}
+
+.butto{
+    border: 2px solid darkblue;
+    width: fit-content;
+    text-align: center;
+}
+
+.butto1 input{
+    width: 95px;
+    margin-left: 30px;
+    float: left;
+    background-color: aquamarine;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.butto2 input{
+    width: 95px;
+    margin-left: 30px;
+    background-color: aquamarine;
+    font-weight: bold;
+    border-radius: 5px;
+}
